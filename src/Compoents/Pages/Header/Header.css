@@ -1,0 +1,22 @@
+.header_link-container{
+    background-color: rgb(202, 117, 117);
+    border-bottom: 1px solid gray;
+    color: white;
+
+}
+
+
+.header_link
+{
+    display: flex;
+    gap: 50px;
+   justify-content: center;
+   text-align: center;
+}
+.header_link li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

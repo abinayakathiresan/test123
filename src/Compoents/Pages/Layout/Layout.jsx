@@ -1,5 +1,6 @@
 import React from "react";
 import RouterConfig from "../../../RouterConfig";
+import Header from "../Header/Header";
 
 const Layout = ()=> {
   return(
@@ -9,3 +10,4 @@ const Layout = ()=> {
     </div>
   )
 }
+export default Layout;
